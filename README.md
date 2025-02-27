@@ -175,4 +175,3 @@
 - Разработка web-версии.
 - Расширение географии работы сервиса.
 
-![image](https://github.com/user-attachments/assets/6c2670f4-6d33-4c48-95a6-5f095886858a)
